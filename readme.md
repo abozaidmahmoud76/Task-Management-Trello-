@@ -1,11 +1,11 @@
-Project Details:::
+<h1>Project Details:::</h1>
 
 Task Management system like as trello 
 
-Technology used::
+<h1>Technology used::<h1>
 (PHP , Lumen Framewark, Restfull Api)
 
-TO Run serve
+<h1>TO Run server</h1>
 php -S localhost:8000 -t public
 
 
